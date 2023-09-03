@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fac9751e.css","mappings":"AAAA,gBAEI,gBAAiB,CACjB,qBACJ,CAEA,eACI,eACJ","sources":["App.css"],"sourcesContent":[".feature-career {\r\n    /* min-height: 185.5px; */\r\n    line-height: 60px;\r\n    vertical-align: middle;\r\n}\r\n\r\n.partner02-img {\r\n    max-height: 55px;\r\n}"],"names":[],"sourceRoot":""}
